@@ -7,6 +7,9 @@ height:  1
 date:   2015-12-06 11:31:49 +0200
 categories: podcast
 ---
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236351434&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>  
+  
 Yasser goes to Redmond to visit Microsoft and gets a surprise demo of the new Hololens.
 - [A channel9 video, a tour in Microsoft museum](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-145-Living-Computer-Museum)  
 - [Video about Microsoft and Apple staff in NY](https://www.youtube.com/watch?v=TMATD2qk564)

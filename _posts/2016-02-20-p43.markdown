@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Gatekeepers"
+color: red
+width:   3 
+height:  1
+date:   2016-02-20 11:31:49 +0200
+categories: podcast
+---
+الحلقة 43 من راديو اسأل مطور, في هذه الحلقة نناقش مشاكل احتفاظ الشركات التقنية بالبيانات الشخصية و استهداف الحكومات و الأجهزة الأمنية لها و نناقش بعض الأخبار التقنية التي حدثت و المتعلقة مثل مطالبة ال FBI لشركة Apple لكسر تشفير أحد أجهزة iPhone و الذي تم اصدار حكم محكمة لالزام الشركة بهذا و على اثره قام Tim Cook المدير التنفيذي للشركة باصدار خطاب مفتوح لمستخدمين التكنولوجيا  
+[Apple's message to their customers](http://www.apple.com/customer-letter/)  
+أيضاً تحدثنا عن موضوع [Where is The Fair Use](http://amreldib.com/linkblog/WhereIsTheFairUse) #WTFU و الذي اثير مؤخراً على يوتيوب  
+  
+[Second issue](http://amreldib.com/linkblog/AskDeveloperLinksheet2SelfParking3DPrintedBuildings) of AskDeveloper Link Sheet, and [issue One](http://amreldib.com/linkblog/AskDeveloperLinksheet1LateAsAlways)

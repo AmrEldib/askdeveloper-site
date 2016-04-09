@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Yasser walked on Mars, and can't wait to talk about it"
+color:  teal
+width:   6 
+height:  1
+date:   2016-03-30 11:31:49 +0200
+categories: podcast
+---
+
+Yasser walked on MARS, and can't wait to talk about it, and coverage of Build 2016  
+[Channel9's videos of all BUILD sessons](https://channel9.msdn.com/Events/Build/2016)
